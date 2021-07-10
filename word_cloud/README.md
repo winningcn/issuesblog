@@ -467,13 +467,3 @@
 
 
 </details>    
-
-## 关于:boy: 
-
-[<img alt="Jiang Wenjian" src="https://avatars3.githubusercontent.com/u/25657798?v=4" width="233"/>](https://github.com/jwenjian)
-
-**Jiang Wenjian**
-
-:round_pushpin: Beijing, China
-
-:black_flag: A good code is like a story, not a puzzle.
