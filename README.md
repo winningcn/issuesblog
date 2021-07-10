@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/12"/>
     <img src="https://badgen.net/github/issues/winningcn/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-07-10 06:49:13"/>
+    <img src="https://badgen.net/badge/last-commit/2021-07-10 07:18:53"/>
     <img src="https://badgen.net/github/forks/winningcn/ghiblog"/>
     <img src="https://badgen.net/github/stars/winningcn/ghiblog"/>
     <img src="https://badgen.net/github/watchers/winningcn/ghiblog"/>
@@ -17,10 +17,44 @@
 </p>
 
 
-<details>
-<summary>:framed_picture:封面	<sup>1:newspaper:</sup></summary>
+## 置顶 :thumbsup: 
+- [早游读写跑](https://github.com/winningcn/issuesblog/issues/3)  <sup>0 :speech_balloon:</sup>  	 
+## 最新 :new: 
 
-- [first in first](https://github.com/winningcn/issuesblog/issues/1)  <sup>0 :speech_balloon:</sup>  	 
+#### [早游读写跑](https://github.com/winningcn/issuesblog/issues/3) <sup>0 :speech_balloon:</sup> 	 2021-07-10 07:16:35
+
+:label: : [:+1:置顶](https://github.com/winningcn/ghiblog/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6)
+
+记录，note things up。
+====================
+This repository is for personal blogging, please **DO NOT** submit issue, thanks!
+
+
+[更多>>>](https://github.com/winningcn/issuesblog/issues/3)
+
+---
+
+
+## 分类  :card_file_box: 
+
+<details open="open">
+    <summary>
+        <img src="assets/wordcloud.png" title="词云, 点击展开详细分类" alt="词云， 点击展开详细分类">
+        <p align="center">:cloud: 词云 :cloud: <sub>点击词云展开详细分类:point_down: </sub></p>
+    </summary>
+
+
+<details>
+<summary>:+1:置顶	<sup>1:newspaper:</sup></summary>
+
+- [早游读写跑](https://github.com/winningcn/issuesblog/issues/3)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>:framed_picture:封面	<sup>0:newspaper:</sup></summary>
+
 
 
 </details>
