@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/12"/>
     <img src="https://badgen.net/github/issues/winningcn/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-07-10 06:37:31"/>
+    <img src="https://badgen.net/badge/last-commit/2021-07-10 06:49:13"/>
     <img src="https://badgen.net/github/forks/winningcn/ghiblog"/>
     <img src="https://badgen.net/github/stars/winningcn/ghiblog"/>
     <img src="https://badgen.net/github/watchers/winningcn/ghiblog"/>
@@ -41,7 +41,7 @@ This repository is for personal blogging, please **DO NOT** submit issue, thanks
 
 ![en en en](https://cdn.jsdelivr.net/gh/winningcn/PB/img/default.png)
 ====================
-no bad. 
+日常记录。
 
 
 [更多>>>](https://github.com/winningcn/issuesblog/issues/1)
